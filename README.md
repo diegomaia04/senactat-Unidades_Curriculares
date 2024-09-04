@@ -20,9 +20,7 @@ Repositório com atividades realizadas no SENAC Tatuapé durante o curso técnic
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 ![GitHub](https://img.shields.io/github/license/fagnerfgb/senactat?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/fagnerfgb/senactat?style=for-the-badge)
-### GitHub Status
 
-![Fagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=fagnerfgb&show_icons=true&theme=radical)
 
 
 
